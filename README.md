@@ -4,6 +4,7 @@
 
 MAP stands for "Multi page application".
 This respository introduces this new concept 'MPA' with AWS lambda function.
+You just simply map node-express application with `aws-serverless-express` modules which enables mapping between Lambda function and Node Express application.
 
 # Notion Documentation
 
